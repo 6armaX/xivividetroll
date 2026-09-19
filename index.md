@@ -2,23 +2,23 @@
 layout: default
 ---
 
-# City
+## City
 - St. Petersburg
 
-# University
+## University
 - St. Petersburg State University, Fundamental mathematics
 
-# School
+## School
 - Kapitsa Phystech-Lyceum
 
-# Development stack
+## Development stack
 - C/C++
 - Qt5
 
-# Projects
+## Projects
 - Programming language translator
 - Economic Tycoon
 
-# Contact Info
+## Contact Info
 - email: poiiir985@gmail.com
 - telegram: @serenityisdied
