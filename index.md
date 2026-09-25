@@ -9,3 +9,6 @@ title: "Maxim Gareev"
 # Контакты
 - email: literatium24@gmail.com
 - telegram: [@selfhatredcomplex](https://t.me/selfhatredcomplex)
+# Знакомые
+## Савицкий Станислав (СПБГУ, Фундаментальная математика)
+- [about](https://ladnovint1k.github.io/mainpage/)
